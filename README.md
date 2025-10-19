@@ -1,4 +1,4 @@
-# Bài
+# Bài 12
 Chương trình minh họa cách sử dụng FreeRTOS Queue để truyền dữ liệu giữa các tác vụ (tasks).
 Hệ thống có 2 task hoạt động song song:
 
